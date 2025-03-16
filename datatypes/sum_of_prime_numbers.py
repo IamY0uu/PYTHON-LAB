@@ -8,4 +8,4 @@ for i in range(2, int(limit ** 0.5) + 1):
             primes[j] = False
 
 prime_sum = sum(i for i, prime in enumerate(primes) if prime)
-print("Sum: ", sum)
+print(f"Sum: {prime_sum}")
