@@ -1,3 +1,4 @@
+# snake water gun game using python 
 import random
 dict={
         "snake" : -1,
