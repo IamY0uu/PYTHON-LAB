@@ -33,7 +33,7 @@ b=int(input("b: "))
 c=int(input("c: "))
 print(f"{gt()} is greatest")
 
- c=5*(f-32)/9
+#  c=5*(f-32)/9
 
 
 def stars(n):
