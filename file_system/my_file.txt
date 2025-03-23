@@ -1,0 +1,1 @@
+this file consists concepts of file i/o in python

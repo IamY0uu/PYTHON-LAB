@@ -1,0 +1,2 @@
+elephant , monkey , lion , animal, phont, elephant
+elePHONT elePHONT
