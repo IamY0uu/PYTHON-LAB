@@ -70,6 +70,3 @@
 # n=int(input("num: ")) 
 # table(n)
 
-
-# snake water gun game
-choice=input("choose one (snake , water , gun) : ")
