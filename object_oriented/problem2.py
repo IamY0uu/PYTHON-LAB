@@ -12,11 +12,15 @@ class Calculator:
     def cube(self):
         return self.num * self.num * self.num
     
+    @staticmethod
+    def stat():
+        print("Hello user, this is static method")
+    
 
 num = int(input("Enter a number: ")) # User input
 obj = Calculator(num)  # Object creation
 
-
+obj.stat
 print("Square:", obj.square())  
 print("Square Root:", obj.squareRoot())  
 print("Cube:", obj.cube())  
